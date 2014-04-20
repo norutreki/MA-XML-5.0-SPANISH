@@ -2142,4 +2142,24 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   <string name="zone_auto_summaryOn">Usar zona horaria proporcionada por la red</string>
   <string name="zone_list_menu_sort_alphabetically">Ordenar alfabéticamente</string>
   <string name="zone_list_menu_sort_by_timezone">Ordenar por zona horaria</string>
+  
+  <!-- TRADUCIR ESTAS -->
+   
+  <string name="screen_key_long_press_timeout">Define long press time</string>
+  <string name="do_not_disturb_mode">Do Not Disturb</string>
+  <string name="dndm_notification">Do Not Disturb is on</string>
+  <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
+  <string name="accessibility_global_gesture_preference_summary_on">On</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Off</string>
+  <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+
+Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+
+Step 2: Touch and hold two fingers until you hear audio confirmation.
+
+If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
+  <string name="drive_mode">Car mode</string>
+  <string name="enable_drive_mode">Car mode</string>
+  <string name="drive_mode_title">Car mode</string>
+  <string name="drive_mode_settings">Car mode settings</string>
 </resources>
