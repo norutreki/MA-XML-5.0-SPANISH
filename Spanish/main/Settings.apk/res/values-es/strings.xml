@@ -2145,21 +2145,21 @@ Nota: aplicaciones con dichos permisos podrán generar inestabilidad en el siste
   
   <!-- TRADUCIR ESTAS -->
    
-  <string name="screen_key_long_press_timeout">Define long press time</string>
-  <string name="do_not_disturb_mode">Do Not Disturb</string>
-  <string name="dndm_notification">Do Not Disturb is on</string>
-  <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
-  <string name="accessibility_global_gesture_preference_summary_on">On</string>
-  <string name="accessibility_global_gesture_preference_summary_off">Off</string>
-  <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+   <string name="screen_key_long_press_timeout">Define el tiempo de pulsación larga</string>
+   <string name="do_not_disturb_mode">No molestar</string>
+   <string name="dndm_notification">No molestar está activado</string>
+   <string name="accessibility_global_gesture_preference_title">Acceso directo a Accesibilidad</string>
+   <string name="accessibility_global_gesture_preference_summary_on">Encendido</string>
+   <string name="accessibility_global_gesture_preference_summary_off">Apagado</string>
+   <string name="accessibility_global_gesture_preference_description">"Cuando esta característica está activada, puedes activar rápidamente las funciones de accesibilidad en dos pasos:
 
-Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+Paso 1: Mantenga pulsado el botón de encendido hasta que escuche un sonido o sienta una vibración.
 
-Step 2: Touch and hold two fingers until you hear audio confirmation.
+Paso 2: Toque con dos dedos y mantenga hasta que escuche la confirmación de audio.
 
-If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
-  <string name="drive_mode">Car mode</string>
-  <string name="enable_drive_mode">Car mode</string>
-  <string name="drive_mode_title">Car mode</string>
-  <string name="drive_mode_settings">Car mode settings</string>
+Si el dispositivo tiene varios usuarios, usando este acceso directo en la pantalla de bloqueo permite temporalmente el acceso hasta que el dispositivo se desbloquee."</string>
+  <string name="drive_mode">Modo coche</string>
+  <string name="enable_drive_mode">Modo coche</string>
+  <string name="drive_mode_title">Modo coche</string>
+  <string name="drive_mode_settings">Ajustes Modo coche</string>s</string>
 </resources>
